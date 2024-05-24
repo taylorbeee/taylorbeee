@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taylor</h1>
-<h3 align="center">A passionate frontend developer from Los Angeles</h3>
+<h3 align="center">A passionate frontend developer in Los Angeles</h3>
 
-- 🔭 I’m currently working on **finding a first job in tech!**
+- 🔭 I’m currently working on **finding my first job in tech!**
 
 - 👨‍💻 All of my projects are available at [https://taylorbehrensportfolio.netlify.app/](https://taylorbehrensportfolio.netlify.app/)
 
