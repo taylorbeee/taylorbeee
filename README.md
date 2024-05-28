@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **finding my first job in tech!**
 
+- 🌱 I’m currently volunteering at **HackforLA**
+
 - 👨‍💻 All of my projects are available at [https://taylorbehrensportfolio.netlify.app/](https://taylorbehrensportfolio.netlify.app/)
 
 - 💬 Ask me about **react, fantasy novels or Liverpool football**
