@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **finding my first job in tech!**
 
-- 🌱 I’m currently volunteering at **HackforLA**
+- 🌱 I’m currently volunteering at **HackforLA** <img src="https://avatars.githubusercontent.com/u/11635254?s=200&v=4" alt="hackforla" width="30" height="30"/>
 
 - 👨‍💻 All of my projects are available at [https://taylorbehrensportfolio.netlify.app/](https://taylorbehrensportfolio.netlify.app/)
 
@@ -41,3 +41,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://avatars.githubusercontent.com/u/11635254?s=200&v=4
