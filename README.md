@@ -42,5 +42,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-https://avatars.githubusercontent.com/u/11635254?s=200&v=4
