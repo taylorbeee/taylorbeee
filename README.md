@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://taylorbehrensportfolio.netlify.app/](https://taylorbehrensportfolio.netlify.app/)
 
-- 💬 Ask me about **react, fantasy novels or Liverpool football**
+- 💬 Ask me about **my golf game, fantasy novels or Liverpool football**
 
 - 📫 How to reach me **taylorbehrens.dev@yahoo.com**
 
