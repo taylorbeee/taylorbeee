@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available <a href="https://taylorbehrensportfolio.netlify.app" target="_blank">**here**</a>
 
-- 💬 Ask me about **my golf game, fantasy novels or Liverpool football**
+- 💬 Ask me about **golfing, fantasy novels or Liverpool football**
 
 - 📫 How to reach me **taylorbehrens.dev@yahoo.com**
 
