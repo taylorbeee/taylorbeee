@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently volunteering at **HackforLA** <a href="https://www.hackforla.org" target="_blank"><img src="https://avatars.githubusercontent.com/u/11635254?s=200&v=4" alt="hackforla" width="30" height="30"/></a>
 
-- 👨‍💻 All of my projects are available <a href="https://taylorbehrensportfolio.netlify.app" target="_blank">**here**</a>
+- 👨‍💻 **Check this out!** All of my projects are available <a href="https://taylorbehrensportfolio.netlify.app" target="_blank">**here**</a>
 
 - 💬 Ask me about **golfing, fantasy novels or Liverpool football**
 
