@@ -7,7 +7,9 @@
 
 - 👨‍💻 **Check this out!** All of my projects are available <a href="https://taylorbehrensportfolio.netlify.app" target="_blank">**here**</a>
 
-- 💬 Ask me about **golfing, fantasy novels or Liverpool football**  <img src="https://github.com/taylorbeee/taylorbeee/assets/126136711/996a6d6a-3cbf-4487-a5a2-b7ad2bd93280" alt="golfingman" width="25" height="25"/>
+- 💬 Ask me about **golfing, fantasy novels or Liverpool football**  <img src="https://github.com/taylorbeee/taylorbeee/assets/126136711/996a6d6a-3cbf-4487-a5a2-b7ad2bd93280" alt="golfingman" width="25" height="25"/> <img src="https://img.icons8.com/?size=100&id=tgZbSpOhzqyY&format=png&color=000000" alt="book" width="25" height="25"/>
+
+
 
 - 📫 How to reach me **taylorbehrens.dev@yahoo.com**
 
