@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://i.ibb.co/xfDVgJX/banner-portfolio.jpg" alt="banner-portfolio" border="0"></h1>
 -->
 
-<h1 align="center">Hi Friend 👋, I'm Taylor</h1>
+<h1 align="center">Hi Internet 👋, I'm Taylor</h1>
 <h3 align="center">A passionate frontend developer in Los Angeles</h3>
 
 
