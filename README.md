@@ -1,8 +1,4 @@
 
-<!--
-<h1 align="center"><img src="https://i.ibb.co/xfDVgJX/banner-portfolio.jpg" alt="banner-portfolio" border="0"></h1>
--->
-
 <h1 align="center">Hi Internet 👋, I'm Taylor</h1>
 <h3 align="center">A passionate frontend developer in Los Angeles</h3>
 
@@ -40,10 +36,10 @@
 
 
 <!--
-**taylorbeee/taylorbeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><img src="https://i.ibb.co/xfDVgJX/banner-portfolio.jpg" alt="banner-portfolio" border="0"></h1>
+-->
 
-Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
