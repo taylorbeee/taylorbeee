@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello 👋, I'm Taylor</h1>
+<h1 align="center">Howdy Ya'll 👋, I'm Taylor</h1>
 <h3 align="center">A passionate frontend developer in Los Angeles</h3>
 
 
