@@ -13,7 +13,7 @@
 
 
 
-- 📫 How to reach me **taylorbehrens.dev@yahoo.com**
+- 📫 Don't hesitate to reach out! **taylorbehrens.dev@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
