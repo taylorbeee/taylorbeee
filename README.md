@@ -12,7 +12,6 @@
 - ⚡ Ask me about **golfing, fantasy novels or Liverpool football**  <img src="https://img.icons8.com/?size=100&id=21735&format=png&color=000000" alt="LFCLogo" width="25" height="25"/><img src="https://github.com/taylorbeee/taylorbeee/assets/126136711/996a6d6a-3cbf-4487-a5a2-b7ad2bd93280" alt="golfingman" width="25" height="25"/> <img src="https://img.icons8.com/?size=100&id=tgZbSpOhzqyY&format=png&color=000000" alt="book" width="25" height="25"/>
 
 
-
 - 📫 Don't hesitate to reach out! **taylorbehrens.dev@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -34,10 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taylorbeee&show_icons=true&locale=en" alt="taylorbeee" /></p>
 -->
 
-
-<!--
-<h1 align="center"><img src="https://i.ibb.co/xfDVgJX/banner-portfolio.jpg" alt="banner-portfolio" border="0"></h1>
--->
 
 <!--
 - 🔭 I’m currently working on ...
