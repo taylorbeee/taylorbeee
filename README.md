@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **finding my first full-time job in tech!**  <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="computer" width="25" height="25"/>
 
-- 🌱 I’m currently volunteering **as a software engineer at HackforLA** <a href="https://www.hackforla.org" target="_blank"><img src="https://avatars.githubusercontent.com/u/11635254?s=200&v=4" alt="hackforla" width="28" height="28"/></a>
+- 🌱 I’m currently volunteering as a **software engineer at HackforLA** <a href="https://www.hackforla.org" target="_blank"><img src="https://avatars.githubusercontent.com/u/11635254?s=200&v=4" alt="hackforla" width="28" height="28"/></a>
 
 - 👨‍💻 **Take a look!** All of my projects are available <a href="https://taylorbehrensportfolio.netlify.app" target="_blank">**here**</a>
 
