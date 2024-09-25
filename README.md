@@ -28,13 +28,6 @@
 
 
 <!--
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taylorbeee&show_icons=true&locale=en&layout=compact" alt="taylorbeee" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taylorbeee&show_icons=true&locale=en" alt="taylorbeee" /></p>
--->
-
-
-<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
