@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello World 🤙, I'm Taylor</h1>
-<h3 align="center">Burgeoning frontend developer located in Los Angeles (Soon to be Denver - 4 DAYS!)</h3>
+<h3 align="center">Burgeoning frontend developer located in Los Angeles (Soon to be Denver - 3 DAYS!)</h3>
 
 
 - 🔭 I’m currently looking for **my first full-time job in tech!**  <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="computer" width="25" height="25"/>
