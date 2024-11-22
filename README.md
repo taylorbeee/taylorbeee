@@ -2,7 +2,7 @@
 <h1 align="center">Hello World 🤙, I'm Taylor</h1>
 <h3 align="center">Burgeoning frontend developer located in Denver</h3>
 
-- 🔭 I’m currently looking for **my first full-time job in tech!**  <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="computer" width="25" height="25"/>
+- 🔭 I’m currently looking for a **front end web developer** position <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="computer" width="25" height="25"/>
 
 - 🌱 I’m currently volunteering as a **software engineer at HackforLA** <a href="https://www.hackforla.org" target="_blank"><img src="https://avatars.githubusercontent.com/u/11635254?s=200&v=4" alt="hackforla" width="28" height="28"/></a>
 
